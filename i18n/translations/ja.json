@@ -7,17 +7,17 @@
     "education": [
       {
         "id": 1,
-        "institution": "東京大学",
+        "institution": "Copilot大学",
         "degree": "学士",
-        "field": "コンピューターサイエンス",
+        "field": "オーガニックハーブティー製造学科",
         "startDate": "2010-04",
         "endDate": "2014-03"
       },
       {
         "id": 2,
-        "institution": "京都大学",
+        "institution": "Copilot大学",
         "degree": "修士",
-        "field": "人工知能",
+        "field": "たまご包装専攻",
         "startDate": "2014-04",
         "endDate": "2016-03"
       }
@@ -29,8 +29,8 @@
         "roles": [
           {
             "id": 1,
-            "title": "プリンシパルソフトウェアエンジニア",
-            "startDate": "2022-04",
+            "title": "Customer Sucess Account Manager",
+            "startDate": "2022-07",
             "endDate": "現在",
             "description": "Azure AIサービスの開発とグローバル展開を主導しています。",
             "projects": [
@@ -50,8 +50,8 @@
         "roles": [
           {
             "id": 2,
-            "title": "クラウドソリューションアーキテクト",
-            "startDate": "2020-04",
+            "title": "コンサル",
+            "startDate": "2022-07",
             "endDate": "2022-03",
             "description": "企業向けクラウドソリューションの設計と実装を担当しました。",
             "projects": [

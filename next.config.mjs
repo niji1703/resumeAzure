@@ -25,6 +25,11 @@ const nextConfig = {
 
 mergeConfig(nextConfig, userConfig)
 
+// Azure 배포 환경 설정: AZURE_STATIC_WEB_APP 환경변수가 true일 때 trailingSlash 옵션 활성화
+if (process.env.AZURE_STATIC_WEB_APP === 'true') {
+  nextConfig.trailingSlash = true;
+}
+
 function mergeConfig(nextConfig, userConfig) {
   if (!userConfig) {
     return
