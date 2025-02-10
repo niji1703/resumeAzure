@@ -1,0 +1,128 @@
+{
+  "title": "私の履歴書",
+  "selectCompany": "会社を選択してください",
+  "linkedinText": "LinkedIn プロフィール",
+  "linkedinUrl": "https://www.linkedin.com/in/yourprofile",
+  "resume": {
+    "education": [
+      {
+        "id": 1,
+        "institution": "東京大学",
+        "degree": "学士",
+        "field": "コンピューターサイエンス",
+        "startDate": "2010-04",
+        "endDate": "2014-03"
+      },
+      {
+        "id": 2,
+        "institution": "京都大学",
+        "degree": "修士",
+        "field": "人工知能",
+        "startDate": "2014-04",
+        "endDate": "2016-03"
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "Microsoft",
+        "roles": [
+          {
+            "id": 1,
+            "title": "プリンシパルソフトウェアエンジニア",
+            "startDate": "2022-04",
+            "endDate": "現在",
+            "description": "Azure AIサービスの開発とグローバル展開を主導しています。",
+            "projects": [
+              {
+                "id": 1,
+                "name": "Azure AI言語モデル最適化",
+                "description": "大規模言語モデルの推論最適化と多言語対応の実装",
+                "technologies": ["Python", "PyTorch", "ONNX", "Azure ML"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "IBM",
+        "roles": [
+          {
+            "id": 2,
+            "title": "クラウドソリューションアーキテクト",
+            "startDate": "2020-04",
+            "endDate": "2022-03",
+            "description": "企業向けクラウドソリューションの設計と実装を担当しました。",
+            "projects": [
+              {
+                "id": 2,
+                "name": "ハイブリッドクラウド移行",
+                "description": "大規模企業のレガシーシステムをハイブリッドクラウド環境に移行",
+                "technologies": ["IBM Cloud", "Kubernetes", "Docker", "Terraform"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Resonic",
+        "roles": [
+          {
+            "id": 3,
+            "title": "シニアソフトウェアエンジニア",
+            "startDate": "2018-04",
+            "endDate": "2020-03",
+            "description": "音響技術を活用した革新的な製品開発に携わりました。",
+            "projects": [
+              {
+                "id": 3,
+                "name": "ノイズキャンセリングアルゴリズム",
+                "description": "高性能ノイズキャンセリングアルゴリズムの開発と実装",
+                "technologies": ["C++", "DSP", "MATLAB"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "サムスン電機",
+        "roles": [
+          {
+            "id": 4,
+            "title": "ソフトウェアエンジニア",
+            "startDate": "2016-04",
+            "endDate": "2018-03",
+            "description": "組み込みシステムの開発に従事し、製品の性能向上に貢献しました。",
+            "projects": [
+              {
+                "id": 4,
+                "name": "スマート家電制御システム",
+                "description": "IoTデバイスを活用したスマート家電制御システムの開発",
+                "technologies": ["C++", "Python", "MQTT", "AWS IoT"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "additionalInfo": [
+    {
+      "title": "技術スキル",
+      "items": [
+        "プログラミング言語: Python, C++, JavaScript, TypeScript",
+        "クラウド技術: AWS, Azure, IBM Cloud",
+        "AI/ML: PyTorch, TensorFlow, scikit-learn",
+        "その他: Docker, Kubernetes, CI/CD, Agile開発手法"
+      ]
+    },
+    {
+      "title": "言語スキル",
+      "items": ["日本語 (ネイティブ)", "英語 (ビジネスレベル)", "中国語 (基礎レベル)"]
+    }
+  ]
+}
+

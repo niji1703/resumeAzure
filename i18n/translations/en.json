@@ -1,0 +1,128 @@
+{
+  "title": "My Resume",
+  "selectCompany": "Please select a company",
+  "linkedinText": "LinkedIn Profile",
+  "linkedinUrl": "https://www.linkedin.com/in/yourprofile",
+  "resume": {
+    "education": [
+      {
+        "id": 1,
+        "institution": "University of Tokyo",
+        "degree": "Bachelor's",
+        "field": "Computer Science",
+        "startDate": "2010-04",
+        "endDate": "2014-03"
+      },
+      {
+        "id": 2,
+        "institution": "Kyoto University",
+        "degree": "Master's",
+        "field": "Artificial Intelligence",
+        "startDate": "2014-04",
+        "endDate": "2016-03"
+      }
+    ],
+    "companies": [
+      {
+        "id": 1,
+        "name": "Microsoft",
+        "roles": [
+          {
+            "id": 1,
+            "title": "Principal Software Engineer",
+            "startDate": "2022-04",
+            "endDate": "Present",
+            "description": "Leading the development and global deployment of Azure AI services.",
+            "projects": [
+              {
+                "id": 1,
+                "name": "Azure AI Language Model Optimization",
+                "description": "Implemented inference optimization and multilingual support for large language models",
+                "technologies": ["Python", "PyTorch", "ONNX", "Azure ML"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "IBM",
+        "roles": [
+          {
+            "id": 2,
+            "title": "Cloud Solutions Architect",
+            "startDate": "2020-04",
+            "endDate": "2022-03",
+            "description": "Responsible for designing and implementing cloud solutions for enterprise clients.",
+            "projects": [
+              {
+                "id": 2,
+                "name": "Hybrid Cloud Migration",
+                "description": "Migrated legacy systems of a large enterprise to a hybrid cloud environment",
+                "technologies": ["IBM Cloud", "Kubernetes", "Docker", "Terraform"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Resonic",
+        "roles": [
+          {
+            "id": 3,
+            "title": "Senior Software Engineer",
+            "startDate": "2018-04",
+            "endDate": "2020-03",
+            "description": "Involved in the development of innovative products utilizing acoustic technology.",
+            "projects": [
+              {
+                "id": 3,
+                "name": "Noise Cancellation Algorithm",
+                "description": "Developed and implemented high-performance noise cancellation algorithms",
+                "technologies": ["C++", "DSP", "MATLAB"]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Samsung Electro-Mechanics",
+        "roles": [
+          {
+            "id": 4,
+            "title": "Software Engineer",
+            "startDate": "2016-04",
+            "endDate": "2018-03",
+            "description": "Worked on embedded systems development, contributing to product performance improvements.",
+            "projects": [
+              {
+                "id": 4,
+                "name": "Smart Home Appliance Control System",
+                "description": "Developed a smart home appliance control system utilizing IoT devices",
+                "technologies": ["C++", "Python", "MQTT", "AWS IoT"]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "additionalInfo": [
+    {
+      "title": "Technical Skills",
+      "items": [
+        "Programming Languages: Python, C++, JavaScript, TypeScript",
+        "Cloud Technologies: AWS, Azure, IBM Cloud",
+        "AI/ML: PyTorch, TensorFlow, scikit-learn",
+        "Others: Docker, Kubernetes, CI/CD, Agile methodologies"
+      ]
+    },
+    {
+      "title": "Language Skills",
+      "items": ["Japanese (Native)", "English (Business fluent)", "Chinese (Basic)"]
+    }
+  ]
+}
+
