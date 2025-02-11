@@ -2,7 +2,7 @@
   "title": "My Resume",
   "selectCompany": "Please select a company",
   "linkedinText": "LinkedIn Profile",
-  "linkedinUrl": "https://www.linkedin.com/in/yourprofile",
+  "linkedinUrl": "https://www.linkedin.com/in/kyunghyun-lee-44731610/",
   "resume": {
     "education": [
       {
@@ -121,7 +121,7 @@
     },
     {
       "title": "Language Skills",
-      "items": ["Japanese (Native)", "English (Business fluent)", "Chinese (Basic)"]
+      "items": ["Korean(native)", "Japanese (business fluent)", "English ()"]
     }
   ]
 }

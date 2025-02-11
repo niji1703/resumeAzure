@@ -10,7 +10,7 @@ interface AdditionalInfoProps {
 export default function AdditionalInfo({ sections }: AdditionalInfoProps) {
   return (
     <div className="mt-8 bg-white rounded-lg shadow-md p-6">
-      <h2 className="text-2xl font-bold mb-4 text-gray-800">추가 정보</h2>
+      <h2 className="text-2xl font-bold mb-4 text-gray-800">Additonal Information</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         {sections.map((section, index) => (
           <div key={index}>

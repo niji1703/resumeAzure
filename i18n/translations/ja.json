@@ -1,8 +1,8 @@
 {
-  "title": "私の履歴書",
+  "title": "履歴書",
   "selectCompany": "会社を選択してください",
   "linkedinText": "LinkedIn プロフィール",
-  "linkedinUrl": "https://www.linkedin.com/in/yourprofile",
+  "linkedinUrl": "https://www.linkedin.com/in/kyunghyun-lee-44731610",
   "resume": {
     "education": [
       {
@@ -121,7 +121,7 @@
     },
     {
       "title": "言語スキル",
-      "items": ["日本語 (ネイティブ)", "英語 (ビジネスレベル)", "中国語 (基礎レベル)"]
+      "items": ["韓国語（ネイティブ）, 日本語 (ビジネスレベル)", "英語 (日常会話レベル)"] 
     }
   ]
 }
